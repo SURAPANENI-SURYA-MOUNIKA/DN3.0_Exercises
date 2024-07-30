@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author hp
- *
- */
-module FactoryMethodPatternExample {
-}
